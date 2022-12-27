@@ -156,7 +156,7 @@ s3transfer==0.5.1
 scikit-learn==1.0.2
 scipy==1.8.0
 scmrepo==0.0.7
-setuptools==65.3.0; python_version >= '3.7'
+setuptools==65.5.1; python_version >= '3.7'
 shortuuid==1.0.8
 shtab==1.5.3
 six==1.16.0
